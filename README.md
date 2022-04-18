@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Irbin Manuel Veliz Isidro
 - 👀 I’m interested in conservation biology. I enjoy both being in the field and doing lab work. I have worked with lizards, birds, bats and freshwater ecosystems.
 - Regarding lab work, I have done DNA extractions from water (eDNA) and soft tissue samples (oyster muscle), cleaning and purification, gel electrophoresis and indexing of samples.
-- 🌱 I’m currently learning bioinformatics as a part of a fellowship (JAE INTRO 2021) at the Doñana Biological Station (Seville) in the CONSEVOL group, under the supervision
-- of Dr. Jennifer Leonard.
+- 🌱 I’m currently learning bioinformatics as a part of a fellowship (JAE INTRO 2021) at the Doñana Biological Station (Seville) in the CONSEVOL group, under the supervision of Dr. Jennifer Leonard.
 - 📫 How to reach me: irbinveliz@gmail.com
 
 <!---
